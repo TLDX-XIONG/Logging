@@ -1,0 +1,4 @@
+Mon, 10 Apr 2023 16:12:35 logg.py[line:49] DEBUG root debug message
+Mon, 10 Apr 2023 16:12:35 logg.py[line:50] INFO root info message
+Mon, 10 Apr 2023 16:12:35 logg.py[line:51] WARNING root warning message
+Mon, 10 Apr 2023 16:12:35 logg.py[line:52] ERROR root error message
